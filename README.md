@@ -22,14 +22,14 @@ Ejemplos de contenido típico en un CMS:
 
 ---
 
-### CMS 
+### CMS HEADLESS
 Un **CMS headless** es un CMS que **no controla la presentación visual** del contenido.
 
 - El CMS solo gestiona y expone contenido mediante una **API**
 - El frontend (web, app, etc.) consume ese contenido y decide cómo renderizarlo
 - No existe acoplamiento entre contenido y UI
 
-👉 En este proyecto, **Modyo** actúa como CMS headless.
+ En este proyecto, **Modyo** actúa como CMS headless.
 
 ---
 
@@ -54,7 +54,7 @@ Este proyecto implementa una arquitectura headless al integrar:
 
 ---
 
-## 🧠 Descripción general del proyecto
+## Descripción general del proyecto
 
 **Manos Mágicas** es una mini tienda de kits de manualidades que combina:
 
@@ -157,6 +157,7 @@ query ProductByUrlKey($urlKey: String!) {
   }
 }
 
+---
 
 Estas queries representan cómo el frontend consumiría un Magento real vía GraphQL.
 
@@ -194,10 +195,11 @@ npm run dev
 npm run build
 
 
-🛣️ Roadmap / Mejoras futuras.
+### Roadmap / Mejoras futuras.
+
 El proyecto es escalable y a futuro podría incorporar nuevas funcionalidades como:
 
-- Reemplazar modyo.mock.json por consumo real de Modyo Content API
+- Reemplazar "modyo.mock.json" por consumo real de Modyo Content API
 
 - Levantar Magento con Docker y conectar GraphQL real
 
