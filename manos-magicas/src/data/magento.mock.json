@@ -43,7 +43,41 @@
       "image": "https://images.unsplash.com/photo-1680034976848-d9fe95466aba?q=80&w=1170&auto=format&fit=crop",
       "badges": ["Nuevo"],
       "includes": ["Bastidor 15cm", "Hilos mouliné", "Aguja bordado", "Tela algodón", "Lápiz soluble"]
-    }
+    },
+
+{
+  "sku": "KIT-LETTER-01",
+  "name": "Kit de Lettering Brush Pen",
+  "slug": "kit-lettering-brush-pen-starter",
+  "price": 13990,
+  "currency": "CLP",
+  "categoryKey": "lettering",
+  "image": "https://images.unsplash.com/photo-1593362510950-63f1e8dc736a?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "badges": ["Nuevo", "Top"],
+  "includes": ["Brush pen punta flexible", "Marcador fino 0.5", "Block papel liso A5", "Lápiz + goma", "Guía de trazos"]
+},
+
+{
+  "sku": "KIT-VELAS-01",
+  "name": "Kit Crea Tus Velas Aromáticas",
+  "slug": "kit-velas-artesanales-soya",
+  "price": 16990,
+  "currency": "CLP",
+  "categoryKey": "velas",
+  "image": "https://images.unsplash.com/photo-1603905179139-db12ab535ca9?q=80&w=737&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "badges": ["Nuevo", "DIY"],
+  "includes": [
+    "Cera de soya 500g",
+    "Mechas de algodón",
+    "Esencia aromática",
+    "Recipiente de vidrio",
+    "Soporte para mecha"
+  ]
+}
+
+
+
+
   ],
 
   "categories": [

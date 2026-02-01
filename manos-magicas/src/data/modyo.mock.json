@@ -73,6 +73,49 @@
         "Agrega 3–5 nudos franceses como acento."
       ],
       "relatedSku": "KIT-EMB-01"
-    }
+    },
+
+{
+  "id": "lettering-brush",
+  "title": "Lettering con brush pen: tu primera frase",
+  "excerpt": "Aprende trazos básicos, presión y composición de letras con pincel.",
+  "level": "Principiante",
+  "duration": "22 min",
+  "image": "https://images.unsplash.com/photo-1593362510950-63f1e8dc736a?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "materials": ["Brush pen (punta flexible)", "Marcador fino", "Papel liso (90–120g)", "Lápiz y goma", "Regla"],
+  "steps": [
+    "Practica 5 líneas: subida suave (sin presión) y bajada con presión (más gruesa).",
+    "Haz 3 filas de óvalos y 3 de bucles controlando la presión en la bajada.",
+    "Escribe el abecedario en minúsculas separando trazos (subida fina / bajada gruesa).",
+    "Boceta tu frase a lápiz, repásala con brush pen y agrega detalles con marcador fino."
+  ],
+  "relatedSku": "KIT-LETTER-01"
+},
+{
+  "id": "velas-artesanales",
+  "title": "Crea tus velas aromáticas en casa",
+  "excerpt": "Aprende a crear velas hermosas y duraderas, para vender o decorar tu hogar.",
+  "level": "Principiante",
+  "duration": "28 min",
+  "image": "https://images.unsplash.com/photo-1603905179139-db12ab535ca9?q=80&w=737&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "materials": [
+    "Cera de soya",
+    "Mecha de algodón",
+    "Esencia aromática",
+    "Recipiente resistente al calor",
+    "Palillo o broche"
+  ],
+  "steps": [
+    "Derrite la cera a baño maría hasta que esté completamente líquida.",
+    "Fija la mecha al centro del recipiente usando un poco de cera.",
+    "Agrega la esencia aromática y mezcla suavemente.",
+    "Vierte la cera, centra la mecha con un palillo y deja reposar 24 hrs."
+  ],
+  "relatedSku": "KIT-VELAS-01"
+}
+
+
+
+
   ]
 }
