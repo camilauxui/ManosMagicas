@@ -12,7 +12,7 @@ export default function Layout() {
     </NavLink>
 
     <nav className="navLinks">
-      <NavLink to="/">Kits creativos</NavLink>
+      <NavLink to="/">Tienda Kits</NavLink>
       <NavLink to="/tutoriales">Tutoriales</NavLink>
     </nav>
 
@@ -28,8 +28,8 @@ export default function Layout() {
               <p className="small">
                 © 2026 · Manos Mágicas · Proyecto Frontend.
                 <br />
-                Los tutoriales se consumen como contenido editorial desde un CMS (Modyo). El catálogo utiliza una estructura mock de e-commerce basada en Magento.
-              </p>
+                El catálogo utiliza una estructura mock de e-commerce basada en Magento.
+              Los tutoriales se consumen como contenido editorial desde un CMS (Modyo). </p>
             </div>
           </div>
         </footer>
