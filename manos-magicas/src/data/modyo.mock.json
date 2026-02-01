@@ -1,0 +1,78 @@
+{
+  "campaign": {
+    "title": "Materiales y tutoriales",
+    "subtitle": "Los tutoriales se consumen como contenido desde un CMS (Modyo). El catálogo utiliza una estructura mock de e-commerce basada en Magento.",
+    "ctaLabel": "Explorar kits",
+    "ctaHref": "/catalogo"
+  },
+  "legal": {
+    "shipping": "Envíos en 24–72 hrs hábiles según zona.",
+    "returns": "Se pueden realizar cambios dentro de 10 días con producto sin uso."
+  },
+  "tutorials": [
+    {
+      "id": "acuarela-101",
+      "title": "Clase de pintura de naturaleza con acuarela",
+      "excerpt": "Paso a paso para crear hermosos paisajes, uso de luces y sombras.",
+      "level": "Principiante",
+      "duration": "20 min",
+      "image": "https://plus.unsplash.com/premium_photo-1677679817657-b94ed4ce1b46?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "materials": ["Papel algodón o mixed media", "Pincel redondo", "Godete o plato", "Agua", "Cinta masking"],
+      "steps": [
+        "Prepara 3 valores: claro, medio y oscuro con el mismo color.",
+        "Practica degradado: de pigmento a agua en 5 franjas.",
+        "Pinta 6 formas simples (hojas) combinando húmedo sobre seco.",
+        "Deja secar y agrega una segunda capa para sombras."
+      ],
+      "relatedSku": "KIT-PAINT-01"
+    },
+    {
+      "id": "joyas-diy",
+      "title": "Crea tus propias joyas",
+      "excerpt": "Diseña tus propios aros y pulseras con terminaciones profesionales.",
+      "level": "Principiante",
+      "duration": "25 min",
+      "image": "https://plus.unsplash.com/premium_photo-1673958390878-7d1bea717190?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "materials": ["Pinza punta plana", "Pinza corte", "Argollas", "Hilo/herramienta", "Mostacillas"],
+      "steps": [
+        "Separa mostacillas por color y tamaño.",
+        "Arma una secuencia de 12–18 mostacillas.",
+        "Crea argollas con alambre y añade las mostacillas siguiendo tu secuencia, cierra y asegura. con el gancho para aros.",
+        "Haz 1 par de aros y una pulsera, mismos materiales."
+      ],
+      "relatedSku": "KIT-JEWEL-01"
+    },
+    {
+      "id": "amigurumi-mini",
+      "title": "Teje tu primer muñeco amigurumi",
+      "excerpt": "Sigue las instrucciones para crear tu muñequito.",
+      "level": "Principiante",
+      "duration": "30 min",
+      "image": "https://images.unsplash.com/photo-1519412849983-957822373d02?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "materials": ["Lana (grosor medio)", "Crochet 3–4mm", "Marcador de puntos", "Relleno", "Aguja lanera"],
+      "steps": [
+        "Haz anillo mágico con 6 puntos bajos.",
+        "Aumenta hasta 24 puntos (6, 12, 18, 24).",
+        "Teje 6 vueltas rectas y comienza disminuciones, aumenta hasta 40 puntos.",
+        " Agrega ojos de seguridad  o borda los detalles del rostro. Rellena y cierra."
+      ],
+      "relatedSku": "KIT-CROCHET-01"
+    },
+    {
+      "id": "bordado-linea",
+      "title": "Aprende 3 puntadas esenciales",
+      "excerpt": "Punto atrás, punto tallo y nudo francés para crear hermosos diseños.",
+      "level": "Principiante",
+      "duration": "18 min",
+      "image": "https://plus.unsplash.com/premium_photo-1677355760418-a9f7a1fe6b69?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "materials": ["Bastidor", "Hilo mouliné", "Aguja bordado", "Tela algodón", "Lápiz soluble"],
+      "steps": [
+        "Dibuja un patrón simple (ramita o letra).",
+        "Haz punto atrás para contorno y corregir líneas.",
+        "Usa punto tallo para curvas suaves.",
+        "Agrega 3–5 nudos franceses como acento."
+      ],
+      "relatedSku": "KIT-EMB-01"
+    }
+  ]
+}

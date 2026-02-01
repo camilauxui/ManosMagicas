@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "sku": "KIT-PAINT-01",
+      "name": "Kit de Pintura con Acuarela",
+      "slug": "kit-acuarela-starter Inicial",
+      "price": 12990,
+      "currency": "CLP",
+      "categoryKey": "pintura",
+      "image": "https://images.unsplash.com/photo-1596548438137-d51ea5c83ca5?q=80&w=1173&auto=format&fit=crop",
+      "badges": ["Top", "Nuevo"],
+      "includes": ["Set acuarelas 12", "Pincel redondo #6", "Papel A5 (10 hojas)", "Cinta masking"]
+    },
+    {
+      "sku": "KIT-JEWEL-01",
+      "name": "Kit crea tus propias joyas",
+      "slug": "kit-bisuteria-joyas-diy",
+      "price": 14990,
+      "currency": "CLP",
+      "categoryKey": "bisuteria",
+      "image": "https://images.unsplash.com/photo-1652340155004-6d2c829709bd?q=80&w=1170&auto=format&fit=crop",
+      "badges": ["Esencial"],
+      "includes": ["Mostacillas surtidas", "Argollas y cierres", "Pinzas básicas", "Hilo elástico"]
+    },
+    {
+      "sku": "KIT-CROCHET-01",
+      "name": "Kit teje tu Amigurumi",
+      "slug": "kit-crochet-amigurumi-mini",
+      "price": 15990,
+      "currency": "CLP",
+      "categoryKey": "tejido",
+      "image": "https://images.unsplash.com/photo-1753370230699-8e21227afeb6?q=80&w=687&auto=format&fit=crop",
+      "badges": ["Ahorro"],
+      "includes": ["Lana 3 colores", "Crochet 3.5mm", "Marcadores", "Relleno", "Aguja lanera"]
+    },
+    {
+      "sku": "KIT-EMB-01",
+      "name": "Kit de Bordado",
+      "slug": "kit-bordado-puntadas-esenciales",
+      "price": 11990,
+      "currency": "CLP",
+      "categoryKey": "bordado",
+      "image": "https://images.unsplash.com/photo-1680034976848-d9fe95466aba?q=80&w=1170&auto=format&fit=crop",
+      "badges": ["Nuevo"],
+      "includes": ["Bastidor 15cm", "Hilos mouliné", "Aguja bordado", "Tela algodón", "Lápiz soluble"]
+    }
+  ],
+
+  "categories": [
+  { "key": "pintura", "label": "Pintura" },
+  { "key": "bisuteria", "label": "Bisutería" },
+  { "key": "tejido", "label": "Tejido" },
+  { "key": "bordado", "label": "Bordado" }
+]
+
+}
